@@ -2,6 +2,7 @@
 
 ## working example urls for deployed function
 
-- https://vercel.com/bayanbushnaq/capital-finder/api/capital-finder?country=syria
-- https://vercel.com/bayanbushnaq/capital-finder/api/capital-finder?capital=ankara 
-- https://vercel.com/bayanbushnaq/capital-finder/api/capital-finder
+- https://capital-finder-beta.vercel.app/api/capital-finder?country=syria
+- https://capital-finder-beta.vercel.app/api/capital-finder?capital=ankara
+- https://capital-finder-beta.vercel.app/api/capital-finder
+
